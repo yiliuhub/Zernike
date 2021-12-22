@@ -1,0 +1,2 @@
+
+void CImage_Test();

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WaveView6">
+</Property><Property Name="Solution File" Value="C:\MyProjects\LLW\WaveView601\WaveView6.sln">
+</Property><Property Name="Date" Value="Monday, February 08, 2010">
+</Property><Property Name="Time" Value="17:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="WaveView6" Source="WaveView6\WaveView6.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="WaveView6" Source="WaveView6\WaveView6.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="WaveView6" Source="WaveView6\WaveView6.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="WaveView6" Source="WaveView6\WaveView6.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="temp2" Source="temp2\temp2.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="temp2" Source="temp2\temp2.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="temp2" Source="temp2\temp2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="CImage" Source="CImage\CImage.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="CImage" Source="CImage\CImage.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="CImage" Source="CImage\CImage.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="LLWDataProcessor" Source="LLWDataProcessor\LLWDataProcessor.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="LLWDataProcessor" Source="LLWDataProcessor\LLWDataProcessor.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="LLWDataProcessor" Source="LLWDataProcessor\LLWDataProcessor.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WaveView6.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WaveView6.sln" Description="Converted">
+</Event></UpgradeLog>

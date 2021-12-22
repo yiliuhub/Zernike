@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Yi</LastAuthor>
+  <Created>2011-03-06T09:20:43Z</Created>
+  <Version>11.9999</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9000</WindowHeight>
+  <WindowWidth>15756</WindowWidth>
+  <WindowTopX>192</WindowTopX>
+  <WindowTopY>72</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Keratometer">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="16" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="52.8"
+   ss:DefaultRowHeight="15.600000000000001">
+   <Row>
+    <Cell><Data ss:Type="Number">342.24</Data></Cell>
+    <Cell><Data ss:Type="Number">258.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">340.47</Data></Cell>
+    <Cell><Data ss:Type="Number">266.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">336.07</Data></Cell>
+    <Cell><Data ss:Type="Number">273.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">329.21</Data></Cell>
+    <Cell><Data ss:Type="Number">278.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">321.01</Data></Cell>
+    <Cell><Data ss:Type="Number">280.05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">313.02</Data></Cell>
+    <Cell><Data ss:Type="Number">278.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">306.72</Data></Cell>
+    <Cell><Data ss:Type="Number">273.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">301.69</Data></Cell>
+    <Cell><Data ss:Type="Number">267</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">299.8</Data></Cell>
+    <Cell><Data ss:Type="Number">258.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">301.68</Data></Cell>
+    <Cell><Data ss:Type="Number">250.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">305.75</Data></Cell>
+    <Cell><Data ss:Type="Number">243.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">312.87</Data></Cell>
+    <Cell><Data ss:Type="Number">238.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">321.06</Data></Cell>
+    <Cell><Data ss:Type="Number">237.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">329.4</Data></Cell>
+    <Cell><Data ss:Type="Number">238.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">335.59</Data></Cell>
+    <Cell><Data ss:Type="Number">243.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">340.64</Data></Cell>
+    <Cell><Data ss:Type="Number">250.53</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R16C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
